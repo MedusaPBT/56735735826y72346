@@ -16,7 +16,7 @@ pkg install tsu
 tsu
 ```
 ```
- curl -sSf https://raw.githubusercontent.com/MedusaPBT/56735735826y72346/installer.sh | bash
+ curl -sSf https://raw.githubusercontent.com/MedusaPBT/56735735826y72346/main/installer.sh | bash
  ```
 #### Manually
 **Installing requirements**
